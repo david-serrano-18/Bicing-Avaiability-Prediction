@@ -6,8 +6,11 @@ Repository created to organize the code regarding the Bicing Avaiability Predict
 The member of the group are:
 
 👤 Guillermo López
+
 👤 Berta Nieto
+
 👤 Francesc Polls
+
 👤 David Serrano
 
 The user that has been used to make the submissions is:
